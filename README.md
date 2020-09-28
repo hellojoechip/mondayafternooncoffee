@@ -8,5 +8,6 @@ I realized that I wanted to add a list
 
 * list item 1
 * list item 2
+* list item 3
 
 ![](sentosa.jpg)
