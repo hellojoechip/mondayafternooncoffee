@@ -6,3 +6,5 @@ I realized that I wanted to add a list
 
 * list item 1
 * list item 2
+
+![](sentosa.jpg)
