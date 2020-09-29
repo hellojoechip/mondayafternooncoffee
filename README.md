@@ -12,3 +12,5 @@ I realized that I wanted to add a list
 * added listem item 3 from Google
 
 ![](sentosa.jpg)
+
+hello it's Tuesday and I still have coffee!
